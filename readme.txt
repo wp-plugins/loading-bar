@@ -37,15 +37,9 @@ Add loading bar to your website easily, like youtube loading bar! just one click
 * [Premium WordPress themes on Themeforest.](http://j.mp/TF_WPTime)
 * [Premium WordPress plugins on Codecanyon.](http://j.mp/CC_WPTime)
 
-### About
-
-* Loading Bar plugin used [nanobar.js](https://github.com/jacoborus/nanobar) by [Jacobo Tabernero](http://jacoborus.codes/) thanks to him.
-* [The plugin designed and developed by Alobaidi.](http://wp-plugins.in)
-* [Follow me on Twitter.](http://wp-plugins.in/1SQld8g)
-
 ### More Plugins
 
-* [My Plugins](https://profiles.wordpress.org/alobaidi/#content-plugins)
+* [My Plugins](https://profiles.wordpress.org/alobaidi#content-plugins)
 
 == Installation ==
 
@@ -56,12 +50,15 @@ Add loading bar to your website easily, like youtube loading bar! just one click
 3. Go to Settings > General > Loading Bar, in "Color Code" field, enter loading bar color, for example #35aca8, default is red #f00000.
 4. [More info.](http://wp-plugins.in/loading-bar)
 
+* [Read explanation of use](http://wp-plugins.in/loading-bar)
+
 == Frequently Asked Questions ==
 
 ### FAQ
 
-* For more questions or help, [contact me](http://wp-plugins.in).
-* [Or on Twitter.](http://wp-plugins.in/1SQld8g)
+* [Read explanation of use](http://wp-plugins.in/loading-bar)
+* [For more questions or help, contact me.](http://wp-plugins.in/1XnA5Qr)
+* [Or on twitter.](http://wp-plugins.in/1L6zCZL)
 
 == Changelog ==
 
